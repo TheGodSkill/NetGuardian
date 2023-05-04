@@ -26,7 +26,7 @@ Change to the NetGuardian directory:
 
  ```cd netguardian```
 # Install NetGuardian dependencies
-pip install -r requirements.txt 
+```pip install -r requirements.txt``` 
 
 # Requirements
 NetGuardian requires Python 3.6 or later to run. It also depends on several Python libraries, which are listed in the requirements.txt file.
