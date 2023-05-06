@@ -3,6 +3,8 @@ NetGuardian is a command-line tool that includes a password cracker and a networ
 
 ### download rockyou.txt from the internet, too big for my github
 
+# Anything that you do with this tool is not my responsibility
+
 # Features
 - Password cracking: The password cracker is a powerful tool that can be used to crack passwords on local and remote systems. It supports a variety of cracking methods, including dictionary-based attacks, brute force attacks, and hybrid attacks.
 
